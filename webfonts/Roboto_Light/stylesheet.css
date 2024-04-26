@@ -1,9 +1,0 @@
-@import url("../Roboto_Regular/stylesheet.css");
-@font-face {
-	font-family: 'Roboto Light';
-	src: url('Roboto-Light.ttf') format('truetype');
-}.type {
-    font-family: "Roboto Regular";
-}
-.sec1 h3 {
-}
