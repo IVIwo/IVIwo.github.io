@@ -1,2 +1,3 @@
 # IVIwo.github.io
-Portafolio de Practicas de clase
+Desarrollo de sitio web con boostrap
+
